@@ -1,0 +1,3 @@
+# Copy this file to local.properties and fill in your RevenueCat Test Store public key.
+# The free timer works when this is blank or unavailable.
+REVENUECAT_PUBLIC_SDK_KEY=

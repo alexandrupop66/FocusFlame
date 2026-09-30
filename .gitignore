@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+.idea/
+build/
+captures/
+local.properties
+outputs/
+/.kotlin/
+/app/build/
+
+# Android Studio generated signing and profiling files
+*.jks
+*.keystore
+*.hprof
+
+# Local media and emulator captures
+*.mp4
+*.webm
+*.apk
